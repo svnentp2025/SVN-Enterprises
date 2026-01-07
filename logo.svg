@@ -1,0 +1,7 @@
+<svg width="300" height="120" xmlns="http://www.w3.org/2000/svg">
+<rect width="300" height="120" fill="white"/>
+<text x="20" y="70" font-size="48" font-family="Arial" fill="#0b4fa3">SVN</text>
+<text x="130" y="70" font-size="32" font-family="Arial" fill="orange">Enterprises</text>
+<circle cx="260" cy="40" r="18" fill="orange"/>
+<circle cx="260" cy="40" r="10" fill="#0b4fa3"/>
+</svg>
